@@ -1,8 +1,13 @@
-Date,HomeTeam,AwayTeam,FTR,HO,DO,AO
-19/3/2016,Everton,Arsenal,D,2.45,3.35,2.45
-19/3/2016,Chelsea,West Ham,D,1.57,3.65,4.90
-19/3/2016,Crystal Palace,Leicester,D,2.83,3.15,2.25
-19/3/2016,Watford,Stoke,D,2.10,3.00,3.30
-19/3/2016,West Brom,Norwich,D,2.15,3.00,3.15
-19/3/2016,Swansea,Aston Villa,D,1.54,3.60,5.35
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee
+E0,19/03/16,Chelsea,West Ham,2,2,D,1,1,D,R Madley
+E0,19/03/16,Crystal Palace,Leicester,0,1,A,0,1,A,M Jones
+E0,19/03/16,Everton,Arsenal,0,2,A,0,2,A,M Clattenburg
+E0,19/03/16,Swansea,Aston Villa,1,0,H,0,0,D,M Dean
+E0,19/03/16,Watford,Stoke,1,2,A,0,1,A,C Pawson
+E0,19/03/16,West Brom,Norwich,0,1,A,0,0,D,A Taylor
+E0,20/03/16,Man City,Man United,0,1,A,0,1,A,
+E0,20/03/16,Newcastle,Sunderland,1,1,D,0,1,A,M Atkinson
+E0,20/03/16,Southampton,Liverpool,3,2,H,0,2,A,R East
+E0,20/03/16,Tottenham,Bournemouth,3,0,H,2,0,H,
+
 

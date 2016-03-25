@@ -1,0 +1,4 @@
+rank -> expect win/lose + actual -> moral
+win * (rank diff) * 1/ time * factor 
+
+ranking= score + preLeague score (X match)
