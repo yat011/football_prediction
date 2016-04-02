@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,H_Poss,A_Poss,H_tkPass_OK,H_atkPass_tot,A_atkPass_Ok,A_atkPass_tot,H_ins,A_ins
+2015-05-24 00:00:00,Arsenal,West Bromwich Albion,64.4,35.6,212,252,62,101,22,14
+2015-05-24 00:00:00,Aston Villa,Burnley,64.0,36.0,135,176,36,88,15,11
+2015-05-24 00:00:00,Chelsea,Sunderland,65.0,35.0,241,270,66,80,5,17
+2015-05-24 00:00:00,Crystal Palace,Swansea City,48.7,51.3,101,149,59,86,14,11
+2015-05-24 00:00:00,Everton,Tottenham Hotspur,39.7,60.3,73,128,130,175,8,22
+2015-05-24 00:00:00,Hull City,Manchester United,41.2,58.8,62,106,92,122,9,17
+2015-05-24 00:00:00,Leicester City,Queens Park Rangers,46.1,53.9,61,103,61,113,25,22
+2015-05-24 00:00:00,Manchester City,Southampton,54.2,45.8,157,200,72,120,20,19
+2015-05-24 00:00:00,Newcastle United,West Ham United,41.1,58.9,81,116,55,96,8,13
+2015-05-24 00:00:00,Stoke City,Liverpool,45.2,54.8,69,112,95,155,28,8
+2015-05-20 00:00:00,Arsenal,Sunderland,76.1,23.9,366,428,35,66,16,26
+2015-05-18 00:00:00,West Bromwich Albion,Chelsea,40.3,59.7,98,125,228,267,12,7
+2015-05-17 00:00:00,Swansea City,Manchester City,46.6,53.4,69,89,144,181,24,13
+2015-05-17 00:00:00,Manchester United,Arsenal,57.2,42.8,132,189,70,111,24,21
+2015-05-16 00:00:00,Southampton,Aston Villa,34.9,65.1,67,109,125,170,19,12
+2015-05-16 00:00:00,Burnley,Stoke City,45.4,54.6,71,125,49,91,11,14
+2015-05-16 00:00:00,Queens Park Rangers,Newcastle United,47.2,52.8,61,130,88,158,21,23
+2015-05-16 00:00:00,Sunderland,Leicester City,50.2,49.8,51,94,84,155,22,25
+2015-05-16 00:00:00,Tottenham Hotspur,Hull City,55.5,44.5,93,138,62,102,20,13
+2015-05-16 00:00:00,West Ham United,Everton,45.4,54.6,104,154,100,156,12,9
+2015-05-16 00:00:00,Liverpool,Crystal Palace,66.7,33.3,119,171,62,95,9,25
+2015-05-11 00:00:00,Arsenal,Swansea City,69.3,30.7,237,280,49,79,18,27
+2015-05-10 00:00:00,Manchester City,Queens Park Rangers,59.7,40.3,107,140,58,106,22,14
+2015-05-10 00:00:00,Chelsea,Liverpool,47.4,52.6,98,132,91,120,12,10
+2015-05-09 00:00:00,Everton,Sunderland,73.4,26.6,165,213,58,102,6,16
+2015-05-09 00:00:00,Aston Villa,West Ham United,58.7,41.3,135,176,57,97,11,7
+2015-05-09 00:00:00,Hull City,Burnley,54.8,45.2,97,148,60,116,9,15
+2015-05-09 00:00:00,Leicester City,Southampton,30.5,69.5,48,104,128,184,28,14
+2015-05-09 00:00:00,Newcastle United,West Bromwich Albion,61.3,38.7,111,164,41,66,15,17
+2015-05-09 00:00:00,Stoke City,Tottenham Hotspur,45.0,55.0,65,100,87,131,13,22
+2015-05-09 00:00:00,Crystal Palace,Manchester United,37.7,62.3,70,107,87,124,11,7
+2015-05-04 00:00:00,Hull City,Arsenal,31.9,68.1,53,89,112,153,6,14
+2015-05-03 00:00:00,Chelsea,Crystal Palace,62.0,38.0,150,196,62,107,9,14
+2015-05-03 00:00:00,Tottenham Hotspur,Manchester City,55.0,45.0,84,134,82,127,18,33
+2015-05-02 00:00:00,Leicester City,Newcastle United,47.6,52.4,83,120,89,138,18,16
+2015-05-02 00:00:00,Aston Villa,Everton,50.6,49.4,109,153,94,137,18,7
+2015-05-02 00:00:00,Liverpool,Queens Park Rangers,63.2,36.8,107,158,45,88,9,6
+2015-05-02 00:00:00,Sunderland,Southampton,43.4,56.6,57,93,91,144,26,14
+2015-05-02 00:00:00,Swansea City,Stoke City,47.6,52.4,72,106,63,113,23,11
+2015-05-02 00:00:00,West Ham United,Burnley,60.7,39.3,122,159,50,88,10,19
+2015-05-02 00:00:00,Manchester United,West Bromwich Albion,80.9,19.1,252,297,18,61,13,10
+2015-04-29 00:00:00,Leicester City,Chelsea,37.1,62.9,70,126,175,228,24,18
+2015-04-28 00:00:00,Hull City,Liverpool,31.0,69.0,52,93,133,187,19,10
+2015-04-26 00:00:00,Everton,Manchester United,34.3,65.7,42,77,171,211,15,19
+2015-04-26 00:00:00,Arsenal,Chelsea,57.2,42.8,178,224,78,131,18,18
+2015-04-25 00:00:00,Southampton,Tottenham Hotspur,36.3,63.7,59,94,93,139,24,16
+2015-04-25 00:00:00,Burnley,Leicester City,60.0,40.0,87,162,49,104,14,21
+2015-04-25 00:00:00,Crystal Palace,Hull City,45.9,54.1,80,127,108,149,16,11
+2015-04-25 00:00:00,Newcastle United,Swansea City,48.5,51.5,99,154,51,85,18,21
+2015-04-25 00:00:00,Queens Park Rangers,West Ham United,53.9,46.1,78,128,52,104,11,9
+2015-04-25 00:00:00,Stoke City,Sunderland,60.9,39.1,115,162,70,102,12,18
+2015-04-25 00:00:00,West Bromwich Albion,Liverpool,25.8,74.2,34,91,179,237,22,8
+2015-04-25 00:00:00,Manchester City,Aston Villa,44.9,55.1,110,148,97,131,6,10
+2015-04-19 00:00:00,Manchester City,West Ham United,67.4,32.6,211,239,57,96,13,14
+2015-04-19 00:00:00,Newcastle United,Tottenham Hotspur,38.6,61.4,58,102,72,113,18,14
+2015-04-18 00:00:00,Crystal Palace,West Bromwich Albion,69.4,30.6,100,158,36,75,15,23
+2015-04-18 00:00:00,Everton,Burnley,65.7,34.3,122,165,49,111,5,11
+2015-04-18 00:00:00,Leicester City,Swansea City,41.2,58.8,92,155,91,123,21,14
+2015-04-18 00:00:00,Stoke City,Southampton,48.3,51.7,57,100,65,119,14,7
+2015-04-18 00:00:00,Chelsea,Manchester United,29.3,70.7,42,74,134,162,9,18
+2015-04-13 00:00:00,Liverpool,Newcastle United,62.1,37.9,96,147,67,95,11,28
+2015-04-12 00:00:00,Queens Park Rangers,Chelsea,39.7,60.3,53,117,100,171,17,7
+2015-04-12 00:00:00,Manchester United,Manchester City,58.7,41.3,87,137,84,136,29,19
+2015-04-11 00:00:00,Swansea City,Everton,50.7,49.3,78,121,94,131,10,15
+2015-04-11 00:00:00,Southampton,Hull City,53.5,46.5,89,134,70,125,21,18
+2015-04-11 00:00:00,Sunderland,Crystal Palace,54.1,45.9,61,100,61,116,19,24
+2015-04-11 00:00:00,Tottenham Hotspur,Aston Villa,57.3,42.7,85,119,73,131,18,17
+2015-04-11 00:00:00,West Bromwich Albion,Leicester City,45.7,54.3,55,119,72,133,13,15
+2015-04-11 00:00:00,West Ham United,Stoke City,34.3,65.7,57,89,105,159,10,4
+2015-04-11 00:00:00,Burnley,Arsenal,31.1,68.9,72,122,181,226,19,25
+2015-04-07 00:00:00,Aston Villa,Queens Park Rangers,64.2,35.8,119,186,37,83,7,11
+2015-04-06 00:00:00,Crystal Palace,Manchester City,25.2,74.8,32,66,240,290,11,14
+2015-04-05 00:00:00,Burnley,Tottenham Hotspur,40.0,60.0,62,126,75,103,9,20
+2015-04-05 00:00:00,Sunderland,Newcastle United,53.5,46.5,68,119,58,105,14,26
+2015-04-04 00:00:00,Arsenal,Liverpool,48.6,51.4,140,187,107,141,26,9
+2015-04-04 00:00:00,Everton,Southampton,44.4,55.6,93,134,121,165,13,23
+2015-04-04 00:00:00,Leicester City,West Ham United,50.0,50.0,90,146,83,133,22,12
+2015-04-04 00:00:00,Manchester United,Aston Villa,76.9,23.1,220,258,32,64,10,17
+2015-04-04 00:00:00,Swansea City,Hull City,58.5,41.5,90,120,67,107,13,14
+2015-04-04 00:00:00,West Bromwich Albion,Queens Park Rangers,55.7,44.3,120,194,74,120,15,15
+2015-04-04 00:00:00,Chelsea,Stoke City,61.1,38.9,220,281,28,65,8,15
+2015-03-22 00:00:00,Liverpool,Manchester United,41.6,58.4,66,117,110,160,14,21
+2015-03-22 00:00:00,Hull City,Chelsea,43.4,56.6,58,112,147,203,8,5
+2015-03-22 00:00:00,Queens Park Rangers,Everton,53.0,47.0,118,189,103,159,19,21
+2015-03-21 00:00:00,Manchester City,West Bromwich Albion,78.8,21.2,390,424,31,57,19,18
+2015-03-21 00:00:00,Aston Villa,Swansea City,42.6,57.4,77,132,64,92,10,14
+2015-03-21 00:00:00,Newcastle United,Arsenal,51.0,49.0,71,120,89,137,12,31
+2015-03-21 00:00:00,Southampton,Burnley,60.4,39.6,107,149,71,126,9,14
+2015-03-21 00:00:00,Stoke City,Crystal Palace,57.3,42.7,54,107,60,103,9,8
+2015-03-21 00:00:00,Tottenham Hotspur,Leicester City,65.7,34.3,81,124,68,134,26,28
+2015-03-21 00:00:00,West Ham United,Sunderland,54.1,45.9,101,150,46,88,8,13
+2015-03-16 00:00:00,Swansea City,Liverpool,46.1,53.9,63,102,117,163,33,15
+2015-03-15 00:00:00,Chelsea,Southampton,60.9,39.1,189,260,70,112,7,34
+2015-03-15 00:00:00,Everton,Newcastle United,54.2,45.8,103,149,68,111,19,15
+2015-03-15 00:00:00,Manchester United,Tottenham Hotspur,52.2,47.8,104,146,56,90,20,15
+2015-03-14 00:00:00,Crystal Palace,Queens Park Rangers,43.4,56.6,78,118,67,121,7,19
+2015-03-14 00:00:00,Arsenal,West Ham United,68.0,32.0,157,203,50,88,24,15
+2015-03-14 00:00:00,Leicester City,Hull City,51.1,48.9,98,158,59,113,12,15
+2015-03-14 00:00:00,Sunderland,Aston Villa,40.4,59.6,65,105,141,179,18,9
+2015-03-14 00:00:00,West Bromwich Albion,Stoke City,43.0,57.0,77,121,89,133,18,10
+2015-03-14 00:00:00,Burnley,Manchester City,29.4,70.6,42,91,156,193,10,19
+2015-03-07 00:00:00,Queens Park Rangers,Tottenham Hotspur,37.1,62.9,50,100,131,189,6,7
+2015-03-04 00:00:00,Queens Park Rangers,Arsenal,43.0,57.0,83,144,132,183,34,20
+2015-03-04 00:00:00,West Ham United,Chelsea,45.0,55.0,85,144,91,134,9,4
+2015-03-04 00:00:00,Manchester City,Leicester City,70.1,29.9,216,269,57,99,10,30
+2015-03-04 00:00:00,Newcastle United,Manchester United,31.8,68.2,49,93,158,198,20,14
+2015-03-04 00:00:00,Stoke City,Everton,44.0,56.0,80,117,124,171,20,11
+2015-03-04 00:00:00,Tottenham Hotspur,Swansea City,61.3,38.7,147,184,66,99,18,20
+2015-03-04 00:00:00,Liverpool,Burnley,63.6,36.4,131,166,46,106,10,16
+2015-03-03 00:00:00,Aston Villa,West Bromwich Albion,58.5,41.5,90,148,54,107,9,13
+2015-03-03 00:00:00,Hull City,Sunderland,42.3,57.7,82,134,103,155,13,14
+2015-03-03 00:00:00,Southampton,Crystal Palace,62.9,37.1,136,195,69,104,14,15
+2015-03-01 00:00:00,Liverpool,Manchester City,47.8,52.2,87,138,124,177,11,16
+2015-03-01 00:00:00,Arsenal,Everton,47.8,52.2,136,170,62,114,22,16
+2015-02-28 00:00:00,West Ham United,Crystal Palace,67.3,32.7,141,188,33,63,5,7
+2015-02-28 00:00:00,Burnley,Swansea City,46.8,53.2,53,117,49,91,6,20
+2015-02-28 00:00:00,Manchester United,Sunderland,74.8,25.2,220,261,18,44,11,16
+2015-02-28 00:00:00,Newcastle United,Aston Villa,49.1,50.9,80,130,77,145,18,15
+2015-02-28 00:00:00,Stoke City,Hull City,59.2,40.8,66,108,39,85,7,5
+2015-02-28 00:00:00,West Bromwich Albion,Southampton,35.4,64.6,55,108,121,178,20,8
+2015-02-22 00:00:00,Tottenham Hotspur,West Ham United,65.4,34.6,109,151,60,106,13,17
+2015-02-22 00:00:00,Everton,Leicester City,58.3,41.7,115,155,81,128,10,10
+2015-02-22 00:00:00,Southampton,Liverpool,60.1,39.9,98,151,54,93,29,17
+2015-02-21 00:00:00,Aston Villa,Stoke City,52.3,47.7,72,127,49,102,12,11
+2015-02-21 00:00:00,Chelsea,Burnley,61.5,38.5,176,228,57,115,11,16
+2015-02-21 00:00:00,Crystal Palace,Arsenal,53.3,46.7,87,150,78,120,21,24
+2015-02-21 00:00:00,Hull City,Queens Park Rangers,54.9,45.1,80,130,45,93,7,11
+2015-02-21 00:00:00,Sunderland,West Bromwich Albion,62.2,37.8,100,150,68,121,14,10
+2015-02-21 00:00:00,Swansea City,Manchester United,35.3,64.7,48,79,160,202,13,30
+2015-02-21 00:00:00,Manchester City,Newcastle United,57.1,42.9,122,160,56,73,12,18
+2015-02-11 00:00:00,Manchester United,Burnley,57.1,42.9,76,111,78,132,21,13
+2015-02-11 00:00:00,Southampton,West Ham United,68.2,31.8,140,203,42,78,18,24
+2015-02-11 00:00:00,Chelsea,Everton,56.9,43.1,186,243,78,102,5,12
+2015-02-11 00:00:00,Stoke City,Manchester City,51.0,49.0,87,132,89,135,8,14
+2015-02-11 00:00:00,Crystal Palace,Newcastle United,53.7,46.3,70,133,50,97,19,16
+2015-02-11 00:00:00,West Bromwich Albion,Swansea City,35.3,64.7,77,123,100,133,13,9
+2015-02-10 00:00:00,Arsenal,Leicester City,57.4,42.6,169,211,61,101,10,22
+2015-02-10 00:00:00,Hull City,Aston Villa,37.5,62.5,62,102,95,156,14,16
+2015-02-10 00:00:00,Sunderland,Queens Park Rangers,52.4,47.6,89,134,89,123,9,14
+2015-02-10 00:00:00,Liverpool,Tottenham Hotspur,49.7,50.3,72,119,73,124,11,21
+2015-02-08 00:00:00,Burnley,West Bromwich Albion,56.6,43.4,81,141,58,110,14,3
+2015-02-08 00:00:00,Newcastle United,Stoke City,41.8,58.2,78,116,93,155,18,13
+2015-02-08 00:00:00,West Ham United,Manchester United,40.8,59.2,60,109,101,145,15,16
+2015-02-07 00:00:00,Tottenham Hotspur,Arsenal,56.4,43.6,115,173,78,124,24,28
+2015-02-07 00:00:00,Aston Villa,Chelsea,51.3,48.7,68,106,84,128,17,8
+2015-02-07 00:00:00,Leicester City,Crystal Palace,62.2,37.8,123,197,45,87,13,22
+2015-02-07 00:00:00,Manchester City,Hull City,74.1,25.9,216,265,38,70,14,21
+2015-02-07 00:00:00,Queens Park Rangers,Southampton,44.7,55.3,74,134,97,159,6,13
+2015-02-07 00:00:00,Swansea City,Sunderland,60.2,39.8,124,155,66,111,25,12
+2015-02-07 00:00:00,Everton,Liverpool,45.8,54.2,69,110,99,147,12,11
+2015-02-01 00:00:00,Arsenal,Aston Villa,47.9,52.1,118,155,79,120,20,10
+2015-02-01 00:00:00,Southampton,Swansea City,63.8,36.2,176,235,28,54,9,30
+2015-01-31 00:00:00,Hull City,Newcastle United,52.8,47.2,59,114,77,127,14,23
+2015-01-31 00:00:00,Crystal Palace,Everton,54.8,45.2,97,150,84,128,24,19
+2015-01-31 00:00:00,Liverpool,West Ham United,66.7,33.3,105,149,40,105,5,20
+2015-01-31 00:00:00,Manchester United,Leicester City,72.1,27.9,117,159,48,97,19,26
+2015-01-31 00:00:00,Stoke City,Queens Park Rangers,51.6,48.4,66,107,50,96,12,11
+2015-01-31 00:00:00,Sunderland,Burnley,49.3,50.7,64,107,82,142,6,22
+2015-01-31 00:00:00,West Bromwich Albion,Tottenham Hotspur,36.8,63.2,64,107,88,117,14,17
+2015-01-31 00:00:00,Chelsea,Manchester City,42.6,57.4,62,117,153,197,13,11
+2015-01-19 00:00:00,Everton,West Bromwich Albion,69.3,30.7,226,276,51,98,8,12
+2015-01-18 00:00:00,West Ham United,Hull City,53.9,46.1,100,154,81,126,11,17
+2015-01-18 00:00:00,Manchester City,Arsenal,64.8,35.2,143,199,74,109,17,39
+2015-01-17 00:00:00,Aston Villa,Liverpool,48.6,51.4,83,125,82,129,15,17
+2015-01-17 00:00:00,Burnley,Crystal Palace,50.5,49.5,58,142,50,97,17,20
+2015-01-17 00:00:00,Leicester City,Stoke City,43.0,57.0,62,107,99,142,10,10
+2015-01-17 00:00:00,Queens Park Rangers,Manchester United,38.4,61.6,67,130,130,204,16,26
+2015-01-17 00:00:00,Swansea City,Chelsea,45.5,54.5,58,86,165,212,22,16
+2015-01-17 00:00:00,Tottenham Hotspur,Sunderland,65.5,34.5,192,237,41,69,11,12
+2015-01-17 00:00:00,Newcastle United,Southampton,58.2,41.8,114,165,81,116,17,20
+2015-01-11 00:00:00,Arsenal,Stoke City,54.1,45.9,124,157,72,109,21,13
+2015-01-11 00:00:00,Manchester United,Southampton,60.8,39.2,142,196,61,99,21,21
+2015-01-10 00:00:00,Sunderland,Liverpool,47.0,53.0,58,92,92,119,15,9
+2015-01-10 00:00:00,Burnley,Queens Park Rangers,44.9,55.1,57,115,87,132,19,7
+2015-01-10 00:00:00,Chelsea,Newcastle United,63.7,36.3,156,211,47,86,8,16
+2015-01-10 00:00:00,Everton,Manchester City,37.4,62.6,65,100,156,203,13,6
+2015-01-10 00:00:00,Leicester City,Aston Villa,37.4,62.6,67,130,84,137,29,14
+2015-01-10 00:00:00,Swansea City,West Ham United,61.1,38.9,129,175,67,109,15,19
+2015-01-10 00:00:00,West Bromwich Albion,Hull City,51.6,48.4,101,158,79,116,13,19
+2015-01-10 00:00:00,Crystal Palace,Tottenham Hotspur,41.4,58.6,53,91,94,153,14,21
+2015-01-01 00:00:00,Stoke City,Manchester United,33.5,66.5,43,85,104,148,14,17
+2015-01-01 00:00:00,Aston Villa,Crystal Palace,69.7,30.3,77,119,52,88,11,14
+2015-01-01 00:00:00,Hull City,Everton,44.5,55.5,68,119,77,129,19,15
+2015-01-01 00:00:00,Liverpool,Leicester City,58.8,41.2,95,135,100,156,8,24
+2015-01-01 00:00:00,Manchester City,Sunderland,65.1,34.9,301,339,59,86,20,13
+2015-01-01 00:00:00,Newcastle United,Burnley,51.4,48.6,72,117,51,116,11,19
+2015-01-01 00:00:00,Queens Park Rangers,Swansea City,41.3,58.7,70,144,81,117,16,13
+2015-01-01 00:00:00,Southampton,Arsenal,41.3,58.7,64,95,108,144,15,13
+2015-01-01 00:00:00,West Ham United,West Bromwich Albion,45.6,54.4,80,131,98,143,14,16
+2015-01-01 00:00:00,Tottenham Hotspur,Chelsea,45.8,54.2,63,90,100,167,26,9
+2014-12-29 00:00:00,Liverpool,Swansea City,43.4,56.6,91,132,86,118,14,29
+2014-12-28 00:00:00,Tottenham Hotspur,Manchester United,48.6,51.4,74,124,71,120,19,22
+2014-12-28 00:00:00,Southampton,Chelsea,39.2,60.8,51,88,174,218,15,14
+2014-12-28 00:00:00,Aston Villa,Sunderland,48.0,52.0,91,117,128,166,13,12
+2014-12-28 00:00:00,Hull City,Leicester City,61.9,38.1,101,168,62,118,17,26
+2014-12-28 00:00:00,Manchester City,Burnley,62.4,37.6,174,226,66,100,6,22
+2014-12-28 00:00:00,Queens Park Rangers,Crystal Palace,53.3,46.7,49,112,97,167,24,11
+2014-12-28 00:00:00,Stoke City,West Bromwich Albion,50.4,49.6,68,103,89,139,13,19
+2014-12-28 00:00:00,West Ham United,Arsenal,58.2,41.8,94,147,59,97,12,18
+2014-12-28 00:00:00,Newcastle United,Everton,52.8,47.2,86,127,75,107,12,11
+2014-12-26 00:00:00,Chelsea,West Ham United,65.3,34.7,144,198,42,70,8,18
+2014-12-26 00:00:00,Burnley,Liverpool,48.0,52.0,84,164,67,100,12,18
+2014-12-26 00:00:00,Crystal Palace,Southampton,42.9,57.1,96,153,94,139,11,11
+2014-12-26 00:00:00,Everton,Stoke City,62.2,37.8,132,194,85,128,17,18
+2014-12-26 00:00:00,Leicester City,Tottenham Hotspur,49.9,50.1,83,137,71,112,11,18
+2014-12-26 00:00:00,Manchester United,Newcastle United,61.9,38.1,105,137,50,73,15,22
+2014-12-26 00:00:00,Sunderland,Hull City,47.3,52.7,72,108,139,179,13,21
+2014-12-26 00:00:00,Swansea City,Aston Villa,42.9,57.1,84,114,102,132,15,11
+2014-12-26 00:00:00,West Bromwich Albion,Manchester City,48.0,52.0,81,130,95,137,20,19
+2014-12-26 00:00:00,Arsenal,Queens Park Rangers,55.7,44.3,109,165,82,118,18,21
+2014-12-22 00:00:00,Stoke City,Chelsea,50.5,49.5,81,113,88,126,8,16
+2014-12-21 00:00:00,Newcastle United,Sunderland,51.9,48.1,92,137,63,98,6,15
+2014-12-21 00:00:00,Liverpool,Arsenal,64.7,35.3,108,148,64,110,10,19
+2014-12-20 00:00:00,Manchester City,Crystal Palace,73.1,26.9,238,276,62,100,9,27
+2014-12-20 00:00:00,Aston Villa,Manchester United,34.8,65.2,35,49,145,184,17,14
+2014-12-20 00:00:00,Hull City,Swansea City,57.3,42.7,85,160,51,81,15,17
+2014-12-20 00:00:00,Queens Park Rangers,West Bromwich Albion,43.0,57.0,66,121,91,165,18,20
+2014-12-20 00:00:00,Southampton,Everton,43.7,56.3,82,113,130,181,21,7
+2014-12-20 00:00:00,Tottenham Hotspur,Burnley,66.1,33.9,145,191,49,109,19,21
+2014-12-20 00:00:00,West Ham United,Leicester City,47.8,52.2,58,124,89,156,10,22
+2014-12-15 00:00:00,Everton,Queens Park Rangers,53.5,46.5,66,103,71,102,8,7
+2014-12-14 00:00:00,Manchester United,Liverpool,54.9,45.1,77,126,85,125,20,11
+2014-12-14 00:00:00,Swansea City,Tottenham Hotspur,53.6,46.4,73,105,76,107,20,20
+2014-12-13 00:00:00,Burnley,Southampton,39.5,60.5,61,111,102,144,25,10
+2014-12-13 00:00:00,Chelsea,Hull City,59.7,40.3,126,173,40,78,11,19
+2014-12-13 00:00:00,Crystal Palace,Stoke City,44.5,55.5,45,104,51,101,13,18
+2014-12-13 00:00:00,Leicester City,Manchester City,42.4,57.6,60,124,65,103,22,22
+2014-12-13 00:00:00,Sunderland,West Ham United,56.8,43.2,84,120,72,115,11,13
+2014-12-13 00:00:00,West Bromwich Albion,Aston Villa,49.0,51.0,118,154,52,82,21,12
+2014-12-13 00:00:00,Arsenal,Newcastle United,51.7,48.3,132,177,69,104,16,10
+2014-12-08 00:00:00,Southampton,Manchester United,52.3,47.7,112,166,73,112,18,21
+2014-12-07 00:00:00,West Ham United,Swansea City,56.1,43.9,97,160,37,74,15,14
+2014-12-07 00:00:00,Aston Villa,Leicester City,64.9,35.1,100,129,58,103,15,18
+2014-12-06 00:00:00,Newcastle United,Chelsea,32.3,67.7,58,82,178,227,21,6
+2014-12-06 00:00:00,Hull City,West Bromwich Albion,49.7,50.3,91,141,60,102,22,15
+2014-12-06 00:00:00,Liverpool,Sunderland,53.4,46.6,151,196,82,119,20,22
+2014-12-06 00:00:00,Queens Park Rangers,Burnley,50.6,49.4,105,162,87,164,16,19
+2014-12-06 00:00:00,Stoke City,Arsenal,42.3,57.7,55,89,115,158,4,16
+2014-12-06 00:00:00,Tottenham Hotspur,Crystal Palace,67.9,32.1,115,163,60,100,17,17
+2014-12-06 00:00:00,Manchester City,Everton,51.6,48.4,166,201,108,150,18,14
+2014-12-03 00:00:00,Arsenal,Southampton,58.9,41.1,127,177,76,122,28,17
+2014-12-03 00:00:00,Chelsea,Tottenham Hotspur,38.1,61.9,112,145,85,117,20,15
+2014-12-03 00:00:00,Everton,Hull City,57.4,42.6,115,143,72,121,14,21
+2014-12-03 00:00:00,Sunderland,Manchester City,35.0,65.0,61,93,221,251,17,22
+2014-12-02 00:00:00,Burnley,Newcastle United,41.9,58.1,65,128,70,109,15,15
+2014-12-02 00:00:00,Leicester City,Liverpool,46.3,53.7,78,134,50,84,20,13
+2014-12-02 00:00:00,Manchester United,Stoke City,64.5,35.5,134,174,53,82,20,11
+2014-12-02 00:00:00,Swansea City,Queens Park Rangers,59.2,40.8,88,122,54,100,17,25
+2014-12-02 00:00:00,Crystal Palace,Aston Villa,46.4,53.6,96,161,55,101,22,15
+2014-12-02 00:00:00,West Bromwich Albion,West Ham United,58.6,41.4,88,157,46,97,12,20
+2014-11-30 00:00:00,Southampton,Manchester City,52.2,47.8,88,123,87,130,22,15
+2014-11-30 00:00:00,Tottenham Hotspur,Everton,39.0,61.0,72,100,135,171,23,12
+2014-11-29 00:00:00,West Bromwich Albion,Arsenal,48.5,51.5,86,148,123,163,11,24
+2014-11-29 00:00:00,Burnley,Aston Villa,46.8,53.2,74,136,100,135,10,12
+2014-11-29 00:00:00,Liverpool,Stoke City,48.1,51.9,90,153,91,145,13,12
+2014-11-29 00:00:00,Manchester United,Hull City,77.0,23.0,143,173,31,50,13,18
+2014-11-29 00:00:00,Queens Park Rangers,Leicester City,58.9,41.1,97,149,76,126,10,24
+2014-11-29 00:00:00,Swansea City,Crystal Palace,65.3,34.7,104,139,58,91,23,15
+2014-11-29 00:00:00,West Ham United,Newcastle United,47.6,52.4,86,141,68,113,13,16
+2014-11-29 00:00:00,Sunderland,Chelsea,33.4,66.6,52,74,239,276,21,9
+2014-11-24 00:00:00,Aston Villa,Southampton,35.1,64.9,56,99,127,176,7,20
+2014-11-23 00:00:00,Crystal Palace,Liverpool,36.4,63.6,71,116,96,133,13,13
+2014-11-23 00:00:00,Hull City,Tottenham Hotspur,26.0,74.0,38,62,146,191,20,8
+2014-11-22 00:00:00,Chelsea,West Bromwich Albion,74.5,25.5,265,306,32,57,4,14
+2014-11-22 00:00:00,Everton,West Ham United,56.3,43.7,95,136,84,143,5,12
+2014-11-22 00:00:00,Leicester City,Sunderland,40.0,60.0,65,110,77,114,10,8
+2014-11-22 00:00:00,Manchester City,Swansea City,59.9,40.1,188,231,44,66,18,24
+2014-11-22 00:00:00,Newcastle United,Queens Park Rangers,53.7,46.3,87,128,53,98,21,7
+2014-11-22 00:00:00,Stoke City,Burnley,73.9,26.1,146,202,21,73,10,24
+2014-11-22 00:00:00,Arsenal,Manchester United,61.7,38.3,130,188,57,85,6,10
+2014-11-09 00:00:00,Sunderland,Everton,41.6,58.4,53,91,145,185,15,17
+2014-11-09 00:00:00,Tottenham Hotspur,Stoke City,61.3,38.7,75,114,42,79,18,10
+2014-11-09 00:00:00,West Bromwich Albion,Newcastle United,58.3,41.7,96,152,85,136,13,19
+2014-11-09 00:00:00,Swansea City,Arsenal,48.0,52.0,49,88,85,121,15,19
+2014-11-08 00:00:00,Liverpool,Chelsea,58.0,42.0,95,145,86,127,15,6
+2014-11-08 00:00:00,Burnley,Hull City,47.2,52.8,90,147,66,108,12,10
+2014-11-08 00:00:00,Manchester United,Crystal Palace,72.1,27.9,150,191,44,85,10,6
+2014-11-08 00:00:00,Southampton,Leicester City,64.9,35.1,107,159,55,93,10,13
+2014-11-08 00:00:00,West Ham United,Aston Villa,58.2,41.8,78,131,42,93,14,17
+2014-11-08 00:00:00,Queens Park Rangers,Manchester City,41.3,58.7,67,123,124,181,18,5
+2014-11-03 00:00:00,Crystal Palace,Sunderland,54.0,46.0,115,171,59,96,17,18
+2014-11-02 00:00:00,Manchester City,Manchester United,52.0,48.0,118,158,54,97,11,17
+2014-11-02 00:00:00,Aston Villa,Tottenham Hotspur,39.8,60.2,86,131,113,164,5,10
+2014-11-01 00:00:00,Newcastle United,Liverpool,35.4,64.6,66,104,76,129,14,8
+2014-11-01 00:00:00,Arsenal,Burnley,68.3,31.7,205,250,46,91,14,20
+2014-11-01 00:00:00,Chelsea,Queens Park Rangers,65.9,34.1,157,206,41,78,7,14
+2014-11-01 00:00:00,Everton,Swansea City,67.2,32.8,192,236,59,82,11,18
+2014-11-01 00:00:00,Hull City,Southampton,47.4,52.6,91,136,66,119,13,14
+2014-11-01 00:00:00,Leicester City,West Bromwich Albion,56.5,43.5,128,190,62,105,19,24
+2014-11-01 00:00:00,Stoke City,West Ham United,59.9,40.1,110,153,45,87,16,11
+2014-10-27 00:00:00,Queens Park Rangers,Aston Villa,34.9,65.1,59,121,93,153,16,12
+2014-10-26 00:00:00,Burnley,Everton,38.0,62.0,76,127,76,122,13,13
+2014-10-26 00:00:00,Tottenham Hotspur,Newcastle United,68.0,32.0,122,180,46,83,11,26
+2014-10-26 00:00:00,Manchester United,Chelsea,51.7,48.3,84,111,87,129,12,6
+2014-10-25 00:00:00,West Ham United,Manchester City,29.9,70.1,37,84,110,149,16,5
+2014-10-25 00:00:00,Liverpool,Hull City,66.8,33.2,98,151,47,81,5,26
+2014-10-25 00:00:00,Southampton,Stoke City,62.1,37.9,108,147,51,85,14,14
+2014-10-25 00:00:00,Sunderland,Arsenal,42.5,57.5,79,131,162,198,14,23
+2014-10-25 00:00:00,West Bromwich Albion,Crystal Palace,69.5,30.5,118,182,36,66,16,16
+2014-10-25 00:00:00,Swansea City,Leicester City,49.1,50.9,72,106,94,138,17,23
+2014-10-20 00:00:00,West Bromwich Albion,Manchester United,36.8,63.2,57,95,127,179,17,14
+2014-10-19 00:00:00,Queens Park Rangers,Liverpool,43.6,56.4,87,159,85,125,14,11
+2014-10-19 00:00:00,Stoke City,Swansea City,43.1,56.9,79,117,56,89,17,11
+2014-10-18 00:00:00,Manchester City,Tottenham Hotspur,62.0,38.0,159,208,73,104,13,22
+2014-10-18 00:00:00,Arsenal,Hull City,66.2,33.8,206,267,17,40,21,16
+2014-10-18 00:00:00,Burnley,West Ham United,46.4,53.6,89,142,69,122,15,16
+2014-10-18 00:00:00,Crystal Palace,Chelsea,28.0,72.0,52,86,154,198,18,10
+2014-10-18 00:00:00,Everton,Aston Villa,60.7,39.3,108,149,90,131,10,15
+2014-10-18 00:00:00,Newcastle United,Leicester City,50.8,49.2,56,102,71,121,24,15
+2014-10-18 00:00:00,Southampton,Sunderland,52.5,47.5,99,136,57,91,16,11
+2014-10-05 00:00:00,Manchester United,Everton,49.0,51.0,76,103,105,147,24,11
+2014-10-05 00:00:00,Chelsea,Arsenal,46.1,53.9,85,129,143,180,12,17
+2014-10-05 00:00:00,Tottenham Hotspur,Southampton,45.3,54.7,71,114,67,121,23,8
+2014-10-05 00:00:00,West Ham United,Queens Park Rangers,49.4,50.6,64,109,53,94,14,15
+2014-10-04 00:00:00,Hull City,Crystal Palace,59.7,40.3,70,120,70,114,23,15
+2014-10-04 00:00:00,Leicester City,Burnley,53.8,46.2,96,142,90,151,26,18
+2014-10-04 00:00:00,Liverpool,West Bromwich Albion,54.8,45.2,116,144,69,118,15,14
+2014-10-04 00:00:00,Sunderland,Stoke City,38.6,61.4,63,102,107,147,19,13
+2014-10-04 00:00:00,Swansea City,Newcastle United,64.1,35.9,66,104,48,92,21,24
+2014-10-04 00:00:00,Aston Villa,Manchester City,30.8,69.2,48,86,178,221,23,17
+2014-09-29 00:00:00,Stoke City,Newcastle United,44.2,55.8,72,108,78,123,10,11
+2014-09-28 00:00:00,West Bromwich Albion,Burnley,63.2,36.8,152,190,50,88,21,8
+2014-09-27 00:00:00,Liverpool,Everton,46.4,53.6,127,163,106,153,10,18
+2014-09-27 00:00:00,Chelsea,Aston Villa,63.2,36.8,208,247,44,72,11,10
+2014-09-27 00:00:00,Crystal Palace,Leicester City,39.6,60.4,71,116,57,109,17,17
+2014-09-27 00:00:00,Hull City,Manchester City,40.0,60.0,55,91,126,167,21,22
+2014-09-27 00:00:00,Manchester United,West Ham United,57.2,42.8,75,104,81,134,12,11
+2014-09-27 00:00:00,Southampton,Queens Park Rangers,55.5,44.5,100,147,80,122,15,11
+2014-09-27 00:00:00,Sunderland,Swansea City,49.4,50.6,72,106,57,82,14,19
+2014-09-27 00:00:00,Arsenal,Tottenham Hotspur,69.7,30.3,175,227,44,68,19,21
+2014-09-21 00:00:00,Leicester City,Manchester United,42.4,57.6,100,149,101,140,21,31
+2014-09-21 00:00:00,Tottenham Hotspur,West Bromwich Albion,63.1,36.9,90,139,82,129,18,12
+2014-09-21 00:00:00,Everton,Crystal Palace,76.7,23.3,171,232,47,85,5,24
+2014-09-21 00:00:00,Manchester City,Chelsea,59.0,41.0,151,184,83,111,13,9
+2014-09-20 00:00:00,Queens Park Rangers,Stoke City,53.3,46.7,94,149,37,76,8,12
+2014-09-20 00:00:00,Aston Villa,Arsenal,28.3,71.7,37,73,135,178,10,22
+2014-09-20 00:00:00,Burnley,Sunderland,44.0,56.0,95,150,71,98,13,15
+2014-09-20 00:00:00,Newcastle United,Hull City,64.0,36.0,145,208,49,80,12,23
+2014-09-20 00:00:00,Swansea City,Southampton,43.2,56.8,42,71,116,156,16,17
+2014-09-20 00:00:00,West Ham United,Liverpool,37.3,62.7,66,119,68,113,13,12
+2014-09-15 00:00:00,Hull City,West Ham United,40.8,59.2,63,109,86,131,29,7
+2014-09-14 00:00:00,Manchester United,Queens Park Rangers,70.0,30.0,145,185,48,84,14,19
+2014-09-13 00:00:00,Arsenal,Manchester City,45.3,54.7,126,176,158,200,26,16
+2014-09-13 00:00:00,Chelsea,Swansea City,56.0,44.0,215,250,28,45,11,13
+2014-09-13 00:00:00,Crystal Palace,Burnley,44.7,55.3,69,104,102,166,14,12
+2014-09-13 00:00:00,Southampton,Newcastle United,50.4,49.6,67,111,73,107,18,16
+2014-09-13 00:00:00,Stoke City,Leicester City,59.7,40.3,106,154,54,93,13,12
+2014-09-13 00:00:00,Sunderland,Tottenham Hotspur,37.9,62.1,75,99,169,208,13,19
+2014-09-13 00:00:00,West Bromwich Albion,Everton,45.5,54.5,75,128,105,144,19,9
+2014-09-13 00:00:00,Liverpool,Aston Villa,75.4,24.6,140,194,52,95,8,16
+2014-08-31 00:00:00,Aston Villa,Hull City,44.2,55.8,50,100,90,134,8,18
+2014-08-31 00:00:00,Tottenham Hotspur,Liverpool,60.8,39.2,121,160,67,104,16,14
+2014-08-31 00:00:00,Leicester City,Arsenal,31.1,68.9,66,96,203,255,14,9
+2014-08-30 00:00:00,Burnley,Manchester United,35.5,64.5,54,115,107,145,12,22
+2014-08-30 00:00:00,Manchester City,Stoke City,73.7,26.3,208,263,46,78,15,28
+2014-08-30 00:00:00,Newcastle United,Crystal Palace,65.3,34.7,123,161,40,74,11,12
+2014-08-30 00:00:00,Queens Park Rangers,Sunderland,39.5,60.5,75,116,98,136,11,9
+2014-08-30 00:00:00,Swansea City,West Bromwich Albion,56.0,44.0,49,71,85,126,19,15
+2014-08-30 00:00:00,West Ham United,Southampton,36.1,63.9,52,102,123,159,11,9
+2014-08-30 00:00:00,Everton,Chelsea,61.8,38.2,147,198,72,110,10,15
+2014-08-25 00:00:00,Manchester City,Liverpool,52.8,47.2,130,170,121,167,10,13
+2014-08-24 00:00:00,Hull City,Stoke City,42.4,57.6,55,103,127,172,11,13
+2014-08-24 00:00:00,Tottenham Hotspur,Queens Park Rangers,66.2,33.8,106,135,48,72,17,18
+2014-08-24 00:00:00,Sunderland,Manchester United,44.1,55.9,57,84,142,173,9,18
+2014-08-23 00:00:00,Aston Villa,Newcastle United,39.8,60.2,76,108,77,129,11,10
+2014-08-23 00:00:00,Chelsea,Leicester City,64.1,35.9,145,181,67,118,5,15
+2014-08-23 00:00:00,Crystal Palace,West Ham United,45.7,54.3,73,120,76,125,13,15
+2014-08-23 00:00:00,Southampton,West Bromwich Albion,57.7,42.3,106,150,58,98,14,17
+2014-08-23 00:00:00,Swansea City,Burnley,54.8,45.2,55,85,86,141,11,13
+2014-08-23 00:00:00,Everton,Arsenal,44.5,55.5,75,120,157,204,13,19
+2014-08-18 00:00:00,Burnley,Chelsea,38.6,61.4,69,125,134,166,11,17
+2014-08-17 00:00:00,Liverpool,Southampton,56.0,44.0,96,137,79,123,17,19
+2014-08-17 00:00:00,Newcastle United,Manchester City,44.5,55.5,78,113,105,148,14,15
+2014-08-16 00:00:00,Manchester United,Swansea City,60.4,39.6,104,149,37,54,17,17
+2014-08-16 00:00:00,Leicester City,Everton,36.4,63.6,53,100,128,176,18,5
+2014-08-16 00:00:00,Queens Park Rangers,Hull City,51.2,48.8,79,127,58,102,13,13
+2014-08-16 00:00:00,Stoke City,Aston Villa,64.2,35.8,89,135,47,86,17,14
+2014-08-16 00:00:00,West Bromwich Albion,Sunderland,58.2,41.8,110,161,42,65,11,22
+2014-08-16 00:00:00,West Ham United,Tottenham Hotspur,48.0,52.0,80,114,71,113,19,11
+2014-08-16 00:00:00,Arsenal,Crystal Palace,77.7,22.3,175,232,25,56,16,19

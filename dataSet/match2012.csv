@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,H_Poss,A_Poss,H_tkPass_OK,H_atkPass_tot,A_atkPass_Ok,A_atkPass_tot,H_ins,A_ins
+2013-05-19 00:00:00,Chelsea,Everton,43.5,56.5,105,143,121,159,13,16
+2013-05-19 00:00:00,Liverpool,Queens Park Rangers,66.4,33.6,161,208,42,74,11,27
+2013-05-19 00:00:00,Manchester City,Norwich City,60.3,39.7,128,165,71,102,10,13
+2013-05-19 00:00:00,Newcastle United,Arsenal,50.7,49.3,50,92,92,143,12,11
+2013-05-19 00:00:00,Southampton,Stoke City,63.0,37.0,123,172,59,107,4,13
+2013-05-19 00:00:00,Swansea City,Fulham,64.4,35.6,167,207,30,49,24,12
+2013-05-19 00:00:00,Tottenham Hotspur,Sunderland,68.2,31.8,111,167,40,78,15,11
+2013-05-19 00:00:00,West Bromwich Albion,Manchester United,35.4,64.6,96,136,136,165,5,15
+2013-05-19 00:00:00,West Ham United,Reading,48.4,51.6,81,122,73,107,14,15
+2013-05-19 00:00:00,Wigan Athletic,Aston Villa,54.0,46.0,82,124,88,133,22,28
+2013-05-14 00:00:00,Arsenal,Wigan Athletic,47.5,52.5,120,152,74,114,21,34
+2013-05-14 00:00:00,Reading,Manchester City,38.6,61.4,71,102,173,211,10,9
+2013-05-12 00:00:00,Stoke City,Tottenham Hotspur,32.7,67.3,60,110,159,188,16,16
+2013-05-12 00:00:00,Everton,West Ham United,64.7,35.3,154,192,54,102,19,13
+2013-05-12 00:00:00,Fulham,Liverpool,48.4,51.6,82,117,89,122,16,10
+2013-05-12 00:00:00,Norwich City,West Bromwich Albion,48.1,51.9,75,114,89,128,20,5
+2013-05-12 00:00:00,Queens Park Rangers,Newcastle United,56.2,43.8,64,121,60,121,6,16
+2013-05-12 00:00:00,Sunderland,Southampton,36.0,64.0,48,93,90,138,9,16
+2013-05-12 00:00:00,Manchester United,Swansea City,52.1,47.9,131,172,74,102,14,19
+2013-05-11 00:00:00,Aston Villa,Chelsea,43.2,56.8,98,135,93,138,36,10
+2013-05-08 00:00:00,Chelsea,Tottenham Hotspur,44.1,55.9,71,116,77,113,15,21
+2013-05-07 00:00:00,Manchester City,West Bromwich Albion,53.6,46.4,108,140,75,120,17,9
+2013-05-07 00:00:00,Wigan Athletic,Swansea City,53.2,46.8,112,154,61,90,25,24
+2013-05-06 00:00:00,Sunderland,Stoke City,47.6,52.4,60,102,61,111,16,8
+2013-05-05 00:00:00,Liverpool,Everton,54.8,45.2,86,129,95,144,12,21
+2013-05-05 00:00:00,Manchester United,Chelsea,48.7,51.3,78,111,132,183,17,10
+2013-05-04 00:00:00,Fulham,Reading,49.0,51.0,90,132,108,154,14,13
+2013-05-04 00:00:00,Norwich City,Aston Villa,53.7,46.3,97,165,65,121,19,21
+2013-05-04 00:00:00,Swansea City,Manchester City,38.1,61.9,58,90,162,213,29,20
+2013-05-04 00:00:00,West Bromwich Albion,Wigan Athletic,47.9,52.1,80,134,76,102,8,33
+2013-05-04 00:00:00,West Ham United,Newcastle United,45.8,54.2,73,126,45,80,8,9
+2013-05-04 00:00:00,Tottenham Hotspur,Southampton,49.5,50.5,55,98,63,116,28,23
+2013-05-04 00:00:00,Queens Park Rangers,Arsenal,41.2,58.8,76,126,187,238,19,24
+2013-04-29 00:00:00,Aston Villa,Sunderland,55.5,44.5,87,131,62,104,20,23
+2013-04-28 00:00:00,Reading,Queens Park Rangers,46.1,53.9,76,119,89,137,12,15
+2013-04-28 00:00:00,Chelsea,Swansea City,51.8,48.2,155,206,77,94,17,17
+2013-04-28 00:00:00,Arsenal,Manchester United,51.8,48.2,149,209,76,108,16,14
+2013-04-27 00:00:00,Manchester City,West Ham United,62.0,38.0,152,188,94,140,10,14
+2013-04-27 00:00:00,Everton,Fulham,53.9,46.1,110,158,54,89,22,22
+2013-04-27 00:00:00,Southampton,West Bromwich Albion,61.7,38.3,91,127,60,107,34,3
+2013-04-27 00:00:00,Stoke City,Norwich City,47.5,52.5,53,121,53,106,13,9
+2013-04-27 00:00:00,Wigan Athletic,Tottenham Hotspur,39.0,61.0,61,96,86,137,20,15
+2013-04-27 00:00:00,Newcastle United,Liverpool,53.2,46.8,102,153,80,112,13,17
+2013-04-22 00:00:00,Manchester United,Aston Villa,51.9,48.1,72,100,122,163,15,23
+2013-04-21 00:00:00,Tottenham Hotspur,Manchester City,45.3,54.7,66,106,82,135,20,13
+2013-04-21 00:00:00,Liverpool,Chelsea,57.0,43.0,109,161,80,128,13,25
+2013-04-20 00:00:00,Fulham,Arsenal,28.8,71.2,43,72,198,237,35,17
+2013-04-20 00:00:00,Norwich City,Reading,45.5,54.5,88,140,66,114,15,8
+2013-04-20 00:00:00,Queens Park Rangers,Stoke City,48.8,51.2,65,100,69,121,3,9
+2013-04-20 00:00:00,Sunderland,Everton,36.4,63.6,39,81,98,150,19,10
+2013-04-20 00:00:00,Swansea City,Southampton,54.7,45.3,86,122,70,124,26,36
+2013-04-20 00:00:00,West Bromwich Albion,Newcastle United,57.2,42.8,66,110,43,86,3,14
+2013-04-20 00:00:00,West Ham United,Wigan Athletic,36.6,63.4,69,100,130,175,17,12
+2013-04-17 00:00:00,Manchester City,Wigan Athletic,50.4,49.6,112,149,84,122,25,27
+2013-04-17 00:00:00,West Ham United,Manchester United,33.5,66.5,84,123,122,163,20,12
+2013-04-17 00:00:00,Fulham,Chelsea,52.8,47.2,85,125,99,149,24,20
+2013-04-16 00:00:00,Arsenal,Everton,56.8,43.2,118,164,71,115,16,14
+2013-04-14 00:00:00,Newcastle United,Sunderland,65.8,34.2,81,120,53,89,2,20
+2013-04-14 00:00:00,Stoke City,Manchester United,42.2,57.8,59,112,64,106,15,13
+2013-04-13 00:00:00,Arsenal,Norwich City,68.0,32.0,178,229,46,92,13,22
+2013-04-13 00:00:00,Aston Villa,Fulham,48.7,51.3,78,121,75,111,33,20
+2013-04-13 00:00:00,Everton,Queens Park Rangers,60.2,39.8,134,197,52,77,9,20
+2013-04-13 00:00:00,Reading,Liverpool,39.9,60.1,56,105,107,167,19,14
+2013-04-13 00:00:00,Southampton,West Ham United,61.2,38.8,98,141,58,99,21,13
+2013-04-08 00:00:00,Manchester United,Manchester City,45.0,55.0,74,120,130,175,18,9
+2013-04-07 00:00:00,Liverpool,West Ham United,65.1,34.9,150,215,83,138,15,8
+2013-04-07 00:00:00,Tottenham Hotspur,Everton,61.9,38.1,158,204,70,124,22,17
+2013-04-07 00:00:00,Chelsea,Sunderland,61.7,38.3,146,194,58,88,13,25
+2013-04-07 00:00:00,Newcastle United,Fulham,49.6,50.4,92,127,63,95,7,11
+2013-04-07 00:00:00,Queens Park Rangers,Wigan Athletic,32.1,67.9,53,81,167,211,31,13
+2013-04-06 00:00:00,Reading,Southampton,39.4,60.6,74,142,107,154,21,26
+2013-04-06 00:00:00,Norwich City,Swansea City,34.7,65.3,87,144,123,157,30,22
+2013-04-06 00:00:00,Stoke City,Aston Villa,45.6,54.4,72,132,92,152,17,15
+2013-04-06 00:00:00,West Bromwich Albion,Arsenal,51.9,48.1,102,152,92,136,10,13
+2013-04-01 00:00:00,Fulham,Queens Park Rangers,48.3,51.7,78,110,70,108,12,12
+2013-03-31 00:00:00,Aston Villa,Liverpool,46.5,53.5,67,108,105,153,39,16
+2013-03-30 00:00:00,Sunderland,Manchester United,38.6,61.4,74,122,99,142,12,10
+2013-03-30 00:00:00,Arsenal,Reading,70.1,29.9,211,251,40,78,20,26
+2013-03-30 00:00:00,Manchester City,Newcastle United,63.6,36.4,140,193,47,79,9,11
+2013-03-30 00:00:00,Southampton,Chelsea,50.8,49.2,79,132,91,136,21,18
+2013-03-30 00:00:00,Swansea City,Tottenham Hotspur,62.7,37.3,122,171,59,89,25,21
+2013-03-30 00:00:00,West Ham United,West Bromwich Albion,39.5,60.5,75,126,101,150,22,2
+2013-03-30 00:00:00,Wigan Athletic,Norwich City,52.8,47.2,106,143,83,144,11,16
+2013-03-30 00:00:00,Everton,Stoke City,54.0,46.0,91,154,58,103,7,23
+2013-03-17 00:00:00,Sunderland,Norwich City,65.1,34.9,126,171,46,87,10,25
+2013-03-17 00:00:00,Tottenham Hotspur,Fulham,59.5,40.5,90,142,47,86,18,27
+2013-03-17 00:00:00,Chelsea,West Ham United,63.8,36.2,162,207,62,107,10,10
+2013-03-17 00:00:00,Wigan Athletic,Newcastle United,49.8,50.2,74,110,56,98,23,23
+2013-03-16 00:00:00,Everton,Manchester City,40.6,59.4,77,114,151,194,26,8
+2013-03-16 00:00:00,Aston Villa,Queens Park Rangers,60.1,39.9,94,131,65,96,10,6
+2013-03-16 00:00:00,Southampton,Liverpool,47.9,52.1,111,174,57,107,21,16
+2013-03-16 00:00:00,Stoke City,West Bromwich Albion,48.5,51.5,76,126,79,122,10,7
+2013-03-16 00:00:00,Swansea City,Arsenal,56.9,43.1,90,118,132,169,28,14
+2013-03-16 00:00:00,Manchester United,Reading,56.8,43.2,110,139,79,124,9,6
+2013-03-10 00:00:00,Newcastle United,Stoke City,56.2,43.8,92,132,62,105,7,19
+2013-03-10 00:00:00,Liverpool,Tottenham Hotspur,46.5,53.5,68,116,68,116,18,21
+2013-03-09 00:00:00,Norwich City,Southampton,40.9,59.1,52,101,76,136,16,23
+2013-03-09 00:00:00,Queens Park Rangers,Sunderland,49.7,50.3,82,142,66,118,15,8
+2013-03-09 00:00:00,Reading,Aston Villa,41.5,58.5,69,117,96,144,21,25
+2013-03-09 00:00:00,West Bromwich Albion,Swansea City,44.2,55.8,75,127,90,133,23,24
+2013-03-04 00:00:00,Aston Villa,Manchester City,47.2,52.8,108,169,105,142,29,11
+2013-03-03 00:00:00,Tottenham Hotspur,Arsenal,39.5,60.5,27,65,106,153,17,19
+2013-03-02 00:00:00,Chelsea,West Bromwich Albion,52.9,47.1,128,168,79,106,19,11
+2013-03-02 00:00:00,Everton,Reading,60.1,39.9,123,161,81,129,18,20
+2013-03-02 00:00:00,Manchester United,Norwich City,65.0,35.0,193,243,49,101,14,19
+2013-03-02 00:00:00,Southampton,Queens Park Rangers,66.7,33.3,129,194,34,72,33,15
+2013-03-02 00:00:00,Stoke City,West Ham United,52.1,47.9,81,152,77,125,6,10
+2013-03-02 00:00:00,Sunderland,Fulham,49.5,50.5,93,127,75,102,3,17
+2013-03-02 00:00:00,Swansea City,Newcastle United,63.1,36.9,66,102,81,116,13,21
+2013-03-02 00:00:00,Wigan Athletic,Liverpool,52.1,47.9,80,117,67,106,29,16
+2013-02-25 00:00:00,West Ham United,Tottenham Hotspur,38.3,61.7,79,137,65,92,13,11
+2013-02-24 00:00:00,Manchester City,Chelsea,47.0,53.0,112,163,99,137,14,14
+2013-02-24 00:00:00,Newcastle United,Southampton,41.4,58.6,55,109,76,120,14,23
+2013-02-23 00:00:00,Fulham,Stoke City,60.7,39.3,133,176,52,107,20,3
+2013-02-23 00:00:00,Arsenal,Aston Villa,63.9,36.1,186,226,50,78,21,25
+2013-02-23 00:00:00,Norwich City,Everton,44.8,55.2,76,139,132,192,19,12
+2013-02-23 00:00:00,Queens Park Rangers,Manchester United,48.5,51.5,84,124,106,155,26,21
+2013-02-23 00:00:00,Reading,Wigan Athletic,29.9,70.1,39,88,118,147,15,14
+2013-02-23 00:00:00,West Bromwich Albion,Sunderland,58.9,41.1,133,175,69,102,10,20
+2013-02-17 00:00:00,Liverpool,Swansea City,54.3,45.7,122,166,53,78,18,25
+2013-02-11 00:00:00,Liverpool,West Bromwich Albion,58.5,41.5,104,150,62,105,10,21
+2013-02-10 00:00:00,Aston Villa,West Ham United,48.2,51.8,64,101,77,141,14,14
+2013-02-10 00:00:00,Manchester United,Everton,47.0,53.0,95,133,120,181,27,21
+2013-02-09 00:00:00,Tottenham Hotspur,Newcastle United,54.3,45.7,82,129,86,133,20,13
+2013-02-09 00:00:00,Chelsea,Wigan Athletic,53.0,47.0,149,194,75,97,14,29
+2013-02-09 00:00:00,Norwich City,Fulham,43.1,56.9,82,133,102,159,11,15
+2013-02-09 00:00:00,Stoke City,Reading,58.1,41.9,88,156,71,132,4,9
+2013-02-09 00:00:00,Sunderland,Arsenal,38.7,61.3,86,126,156,202,21,14
+2013-02-09 00:00:00,Swansea City,Queens Park Rangers,62.5,37.5,87,129,49,76,23,26
+2013-02-09 00:00:00,Southampton,Manchester City,44.3,55.7,112,173,92,144,24,22
+2013-02-03 00:00:00,West Bromwich Albion,Tottenham Hotspur,30.3,69.7,34,70,154,181,12,19
+2013-02-03 00:00:00,Manchester City,Liverpool,45.7,54.3,88,142,132,177,20,14
+2013-02-02 00:00:00,Queens Park Rangers,Norwich City,49.7,50.3,72,111,72,127,23,9
+2013-02-02 00:00:00,Arsenal,Stoke City,65.4,34.6,209,250,41,86,16,17
+2013-02-02 00:00:00,Everton,Aston Villa,68.3,31.7,146,215,40,76,12,34
+2013-02-02 00:00:00,Newcastle United,Chelsea,45.8,54.2,75,115,87,132,23,6
+2013-02-02 00:00:00,Reading,Sunderland,48.6,51.4,83,144,75,128,10,9
+2013-02-02 00:00:00,West Ham United,Swansea City,35.9,64.1,69,135,106,156,14,17
+2013-02-02 00:00:00,Wigan Athletic,Southampton,45.4,54.6,45,72,126,185,36,34
+2013-02-02 00:00:00,Fulham,Manchester United,44.9,55.1,90,153,106,148,20,11
+2013-01-30 00:00:00,Arsenal,Liverpool,61.8,38.2,166,216,54,76,13,22
+2013-01-30 00:00:00,Norwich City,Tottenham Hotspur,41.6,58.4,55,119,92,132,13,20
+2013-01-30 00:00:00,Everton,West Bromwich Albion,55.9,44.1,140,197,61,92,20,12
+2013-01-30 00:00:00,Manchester United,Southampton,42.7,57.3,62,96,125,185,19,14
+2013-01-30 00:00:00,Reading,Chelsea,32.4,67.6,61,114,113,174,15,7
+2013-01-30 00:00:00,Fulham,West Ham United,43.8,56.2,72,115,107,166,23,7
+2013-01-29 00:00:00,Aston Villa,Newcastle United,51.7,48.3,65,118,64,125,15,15
+2013-01-29 00:00:00,Queens Park Rangers,Manchester City,31.3,68.7,47,75,163,226,40,7
+2013-01-29 00:00:00,Stoke City,Wigan Athletic,36.9,63.1,83,144,101,138,14,11
+2013-01-29 00:00:00,Sunderland,Swansea City,36.1,63.9,64,110,118,145,25,29
+2013-01-23 00:00:00,Arsenal,West Ham United,69.1,30.9,174,220,51,94,17,22
+2013-01-21 00:00:00,Southampton,Everton,53.4,46.6,95,141,69,122,24,20
+2013-01-20 00:00:00,Chelsea,Arsenal,50.3,49.7,101,152,91,135,15,22
+2013-01-20 00:00:00,Tottenham Hotspur,Manchester United,51.0,49.0,74,122,75,126,28,12
+2013-01-19 00:00:00,Liverpool,Norwich City,67.7,32.3,166,200,59,114,18,16
+2013-01-19 00:00:00,Manchester City,Fulham,45.4,54.6,104,134,112,142,15,23
+2013-01-19 00:00:00,Newcastle United,Reading,55.6,44.4,80,131,64,123,14,8
+2013-01-19 00:00:00,Swansea City,Stoke City,56.1,43.9,100,136,68,114,17,12
+2013-01-19 00:00:00,West Ham United,Queens Park Rangers,69.6,30.4,152,231,17,49,11,19
+2013-01-19 00:00:00,Wigan Athletic,Sunderland,70.4,29.6,141,180,49,75,12,14
+2013-01-19 00:00:00,West Bromwich Albion,Aston Villa,57.4,42.6,129,170,62,94,8,14
+2013-01-16 00:00:00,Chelsea,Southampton,58.5,41.5,112,168,79,125,16,17
+2013-01-13 00:00:00,Manchester United,Liverpool,46.0,54.0,96,135,88,126,15,17
+2013-01-13 00:00:00,Arsenal,Manchester City,40.0,60.0,81,124,141,193,32,13
+2013-01-12 00:00:00,Queens Park Rangers,Tottenham Hotspur,38.1,61.9,55,96,136,183,15,28
+2013-01-12 00:00:00,Aston Villa,Southampton,51.0,49.0,103,166,108,166,21,20
+2013-01-12 00:00:00,Everton,Swansea City,55.3,44.7,148,210,83,125,20,20
+2013-01-12 00:00:00,Fulham,Wigan Athletic,49.2,50.8,108,141,81,122,25,15
+2013-01-12 00:00:00,Norwich City,Newcastle United,54.7,45.3,106,164,51,111,13,14
+2013-01-12 00:00:00,Reading,West Bromwich Albion,57.6,42.4,87,149,64,122,11,10
+2013-01-12 00:00:00,Stoke City,Chelsea,43.4,56.6,67,110,99,151,13,9
+2013-01-12 00:00:00,Sunderland,West Ham United,48.0,52.0,62,97,80,135,9,12
+2013-01-02 00:00:00,Chelsea,Queens Park Rangers,63.9,36.1,162,213,15,44,12,23
+2013-01-02 00:00:00,Liverpool,Sunderland,66.2,33.8,138,185,46,90,12,11
+2013-01-02 00:00:00,Newcastle United,Everton,50.5,49.5,63,109,112,159,8,15
+2013-01-01 00:00:00,West Bromwich Albion,Fulham,44.7,55.3,76,112,92,127,11,25
+2013-01-01 00:00:00,Manchester City,Stoke City,61.6,38.4,198,249,52,91,14,9
+2013-01-01 00:00:00,Swansea City,Aston Villa,69.5,30.5,110,167,39,88,15,32
+2013-01-01 00:00:00,Tottenham Hotspur,Reading,68.0,32.0,172,208,28,77,19,25
+2013-01-01 00:00:00,West Ham United,Norwich City,50.5,49.5,103,157,59,122,17,15
+2013-01-01 00:00:00,Wigan Athletic,Manchester United,52.8,47.2,107,152,103,135,10,16
+2013-01-01 00:00:00,Southampton,Arsenal,44.1,55.9,97,148,116,169,18,18
+2012-12-30 00:00:00,Everton,Chelsea,48.0,52.0,105,164,112,167,18,11
+2012-12-30 00:00:00,Queens Park Rangers,Liverpool,33.5,66.5,48,73,139,195,27,14
+2012-12-29 00:00:00,Sunderland,Tottenham Hotspur,44.7,55.3,61,132,107,141,21,12
+2012-12-29 00:00:00,Aston Villa,Wigan Athletic,45.9,54.1,93,151,51,79,19,14
+2012-12-29 00:00:00,Fulham,Swansea City,59.4,40.6,135,182,62,81,21,20
+2012-12-29 00:00:00,Manchester United,West Bromwich Albion,58.0,42.0,113,140,80,124,18,7
+2012-12-29 00:00:00,Norwich City,Manchester City,46.4,53.6,105,146,143,183,17,11
+2012-12-29 00:00:00,Reading,West Ham United,33.8,66.2,49,80,109,175,11,17
+2012-12-29 00:00:00,Stoke City,Southampton,54.9,45.1,95,175,57,125,9,18
+2012-12-29 00:00:00,Arsenal,Newcastle United,44.2,55.8,100,145,68,99,9,18
+2012-12-26 00:00:00,Everton,Wigan Athletic,47.3,52.7,120,172,74,120,20,21
+2012-12-26 00:00:00,Fulham,Southampton,50.6,49.4,65,132,92,137,21,30
+2012-12-26 00:00:00,Manchester United,Newcastle United,60.7,39.3,102,145,48,99,17,10
+2012-12-26 00:00:00,Norwich City,Chelsea,36.5,63.5,67,113,122,175,16,9
+2012-12-26 00:00:00,Queens Park Rangers,West Bromwich Albion,49.8,50.2,77,122,79,128,19,10
+2012-12-26 00:00:00,Reading,Swansea City,28.0,72.0,45,93,98,136,13,12
+2012-12-26 00:00:00,Sunderland,Manchester City,33.0,67.0,67,100,202,238,13,10
+2012-12-26 00:00:00,Aston Villa,Tottenham Hotspur,40.9,59.1,47,81,94,139,28,15
+2012-12-26 00:00:00,Stoke City,Liverpool,37.6,62.4,66,111,111,145,16,9
+2012-12-23 00:00:00,Swansea City,Manchester United,40.3,59.7,67,93,162,208,12,9
+2012-12-23 00:00:00,Chelsea,Aston Villa,56.6,43.4,148,191,63,107,15,11
+2012-12-22 00:00:00,Wigan Athletic,Arsenal,50.4,49.6,69,88,89,123,17,16
+2012-12-22 00:00:00,Manchester City,Reading,73.3,26.7,242,286,34,75,11,19
+2012-12-22 00:00:00,Newcastle United,Queens Park Rangers,58.6,41.4,91,140,35,64,9,15
+2012-12-22 00:00:00,Southampton,Sunderland,57.6,42.4,99,159,60,111,22,11
+2012-12-22 00:00:00,Tottenham Hotspur,Stoke City,63.2,36.8,103,138,51,102,14,21
+2012-12-22 00:00:00,West Bromwich Albion,Norwich City,49.6,50.4,67,107,69,124,7,17
+2012-12-22 00:00:00,West Ham United,Everton,37.7,62.3,60,128,107,149,13,14
+2012-12-22 00:00:00,Liverpool,Fulham,55.6,44.4,114,154,76,96,19,17
+2012-12-17 00:00:00,Reading,Arsenal,32.9,67.1,47,79,153,200,12,12
+2012-12-16 00:00:00,Tottenham Hotspur,Swansea City,49.9,50.1,129,158,48,91,39,21
+2012-12-16 00:00:00,West Bromwich Albion,West Ham United,55.3,44.7,87,123,69,142,13,10
+2012-12-15 00:00:00,Newcastle United,Manchester City,53.7,46.3,88,145,98,122,12,10
+2012-12-15 00:00:00,Liverpool,Aston Villa,72.1,27.9,203,252,55,92,9,14
+2012-12-15 00:00:00,Manchester United,Sunderland,61.5,38.5,119,159,60,99,6,23
+2012-12-15 00:00:00,Norwich City,Wigan Athletic,48.2,51.8,93,139,53,80,16,30
+2012-12-15 00:00:00,Queens Park Rangers,Fulham,44.9,55.1,74,125,65,108,15,15
+2012-12-15 00:00:00,Stoke City,Everton,48.7,51.3,68,113,82,130,13,13
+2012-12-11 00:00:00,Sunderland,Reading,49.3,50.7,76,121,70,133,14,8
+2012-12-10 00:00:00,Fulham,Newcastle United,45.3,54.7,87,132,96,149,18,17
+2012-12-09 00:00:00,Manchester City,Manchester United,56.2,43.8,108,148,81,131,17,15
+2012-12-09 00:00:00,Everton,Tottenham Hotspur,49.6,50.4,120,180,90,127,11,17
+2012-12-09 00:00:00,West Ham United,Liverpool,38.6,61.4,99,136,122,173,13,8
+2012-12-08 00:00:00,Arsenal,West Bromwich Albion,59.0,41.0,114,154,34,74,13,12
+2012-12-08 00:00:00,Aston Villa,Stoke City,56.3,43.7,87,137,89,146,15,16
+2012-12-08 00:00:00,Southampton,Reading,65.1,34.9,119,173,38,76,16,13
+2012-12-08 00:00:00,Sunderland,Chelsea,45.3,54.7,76,120,93,131,9,11
+2012-12-08 00:00:00,Swansea City,Norwich City,66.8,33.2,163,196,65,111,13,15
+2012-12-08 00:00:00,Wigan Athletic,Queens Park Rangers,56.7,43.3,103,136,70,102,26,17
+2012-12-03 00:00:00,Newcastle United,Wigan Athletic,50.0,50.0,96,132,60,80,3,19
+2012-12-02 00:00:00,Norwich City,Sunderland,49.6,50.4,109,160,87,137,12,17
+2012-12-01 00:00:00,West Ham United,Chelsea,42.2,57.8,83,131,112,156,11,9
+2012-12-01 00:00:00,Arsenal,Swansea City,52.5,47.5,185,229,65,82,13,13
+2012-12-01 00:00:00,Fulham,Tottenham Hotspur,45.8,54.2,75,120,53,84,16,15
+2012-12-01 00:00:00,Liverpool,Southampton,63.9,36.1,127,177,49,85,10,20
+2012-12-01 00:00:00,Manchester City,Everton,59.2,40.8,166,224,88,133,19,12
+2012-12-01 00:00:00,Queens Park Rangers,Aston Villa,54.5,45.5,104,146,69,109,15,20
+2012-12-01 00:00:00,West Bromwich Albion,Stoke City,57.2,42.8,94,134,48,102,6,10
+2012-12-01 00:00:00,Reading,Manchester United,41.8,58.2,82,141,92,122,18,20
+2012-11-28 00:00:00,Southampton,Norwich City,57.8,42.2,81,142,80,139,17,12
+2012-11-28 00:00:00,Stoke City,Newcastle United,52.2,47.8,80,131,34,85,14,23
+2012-11-28 00:00:00,Swansea City,West Bromwich Albion,64.7,35.3,99,120,81,119,18,9
+2012-11-28 00:00:00,Tottenham Hotspur,Liverpool,35.0,65.0,43,71,122,179,20,10
+2012-11-28 00:00:00,Chelsea,Fulham,59.7,40.3,173,233,59,79,14,29
+2012-11-28 00:00:00,Everton,Arsenal,42.6,57.4,92,140,111,158,20,24
+2012-11-28 00:00:00,Manchester United,West Ham United,66.1,33.9,168,208,59,107,13,16
+2012-11-28 00:00:00,Wigan Athletic,Manchester City,45.6,54.4,64,85,114,143,17,11
+2012-11-27 00:00:00,Sunderland,Queens Park Rangers,50.2,49.8,68,111,64,95,20,21
+2012-11-27 00:00:00,Aston Villa,Reading,55.1,44.9,96,154,75,128,21,12
+2012-11-25 00:00:00,Swansea City,Liverpool,49.5,50.5,95,128,139,173,29,17
+2012-11-25 00:00:00,Southampton,Newcastle United,49.1,50.9,62,119,45,107,12,17
+2012-11-25 00:00:00,Chelsea,Manchester City,42.3,57.7,67,105,118,174,17,14
+2012-11-25 00:00:00,Tottenham Hotspur,West Ham United,59.4,40.6,85,120,70,116,10,10
+2012-11-24 00:00:00,Sunderland,West Bromwich Albion,49.0,51.0,88,129,93,140,13,15
+2012-11-24 00:00:00,Everton,Norwich City,57.9,42.1,104,154,50,97,14,12
+2012-11-24 00:00:00,Manchester United,Queens Park Rangers,62.5,37.5,147,197,70,101,14,30
+2012-11-24 00:00:00,Stoke City,Fulham,40.3,59.7,94,147,110,150,18,18
+2012-11-24 00:00:00,Wigan Athletic,Reading,66.8,33.2,115,149,64,106,13,17
+2012-11-24 00:00:00,Aston Villa,Arsenal,37.4,62.6,79,126,145,173,12,17
+2012-11-19 00:00:00,West Ham United,Stoke City,58.0,42.0,90,153,61,104,5,7
+2012-11-18 00:00:00,Fulham,Sunderland,49.3,50.7,104,151,93,137,24,15
+2012-11-17 00:00:00,Arsenal,Tottenham Hotspur,65.8,34.2,129,169,37,69,14,17
+2012-11-17 00:00:00,Liverpool,Wigan Athletic,48.9,51.1,110,145,68,98,17,22
+2012-11-17 00:00:00,Manchester City,Aston Villa,66.6,33.4,245,283,36,62,12,11
+2012-11-17 00:00:00,Newcastle United,Swansea City,52.0,48.0,98,147,72,107,16,13
+2012-11-17 00:00:00,Queens Park Rangers,Southampton,46.8,53.2,62,98,182,255,8,19
+2012-11-17 00:00:00,Reading,Everton,39.6,60.4,64,99,96,143,13,16
+2012-11-17 00:00:00,West Bromwich Albion,Chelsea,35.3,64.7,74,115,211,251,11,11
+2012-11-17 00:00:00,Norwich City,Manchester United,37.7,62.3,81,114,154,203,11,13
+2012-11-11 00:00:00,Manchester City,Tottenham Hotspur,61.9,38.1,117,162,47,99,13,26
+2012-11-11 00:00:00,Newcastle United,West Ham United,49.8,50.2,75,126,71,111,10,9
+2012-11-11 00:00:00,Chelsea,Liverpool,43.1,56.9,100,143,104,136,9,11
+2012-11-10 00:00:00,Arsenal,Fulham,56.4,43.6,117,156,61,86,12,18
+2012-11-10 00:00:00,Everton,Sunderland,62.6,37.4,159,221,50,99,10,20
+2012-11-10 00:00:00,Reading,Norwich City,49.3,50.7,61,114,63,116,16,10
+2012-11-10 00:00:00,Southampton,Swansea City,48.4,51.6,98,149,79,121,21,16
+2012-11-10 00:00:00,Stoke City,Queens Park Rangers,45.1,54.9,99,172,73,103,8,9
+2012-11-10 00:00:00,Wigan Athletic,West Bromwich Albion,65.9,34.1,126,156,64,94,16,14
+2012-11-10 00:00:00,Aston Villa,Manchester United,30.5,69.5,61,98,171,217,28,8
+2012-11-05 00:00:00,West Bromwich Albion,Southampton,43.5,56.5,94,135,80,127,14,15
+2012-11-04 00:00:00,Queens Park Rangers,Reading,56.1,43.9,71,111,80,136,10,16
+2012-11-04 00:00:00,Liverpool,Newcastle United,65.3,34.7,132,185,26,52,13,15
+2012-11-03 00:00:00,Manchester United,Arsenal,47.7,52.3,75,112,80,111,19,12
+2012-11-03 00:00:00,Fulham,Everton,40.9,59.1,54,85,137,189,24,19
+2012-11-03 00:00:00,Norwich City,Stoke City,43.6,56.4,84,138,92,160,10,19
+2012-11-03 00:00:00,Sunderland,Aston Villa,55.6,44.4,105,151,77,122,17,16
+2012-11-03 00:00:00,Swansea City,Chelsea,52.2,47.8,115,144,97,124,14,11
+2012-11-03 00:00:00,Tottenham Hotspur,Wigan Athletic,51.1,48.9,75,113,69,111,27,19
+2012-11-03 00:00:00,West Ham United,Manchester City,35.0,65.0,69,116,166,201,7,6
+2012-10-28 00:00:00,Everton,Liverpool,56.2,43.8,100,154,63,103,20,13
+2012-10-28 00:00:00,Newcastle United,West Bromwich Albion,50.4,49.6,67,112,57,107,14,18
+2012-10-28 00:00:00,Southampton,Tottenham Hotspur,52.3,47.7,115,169,61,80,15,17
+2012-10-28 00:00:00,Chelsea,Manchester United,48.7,51.3,90,137,94,124,13,10
+2012-10-27 00:00:00,Aston Villa,Norwich City,41.5,58.5,39,97,117,173,14,10
+2012-10-27 00:00:00,Arsenal,Queens Park Rangers,66.5,33.5,176,215,40,62,18,15
+2012-10-27 00:00:00,Reading,Fulham,34.1,65.9,61,112,138,171,17,12
+2012-10-27 00:00:00,Stoke City,Sunderland,52.2,47.8,92,130,60,105,12,11
+2012-10-27 00:00:00,Wigan Athletic,West Ham United,54.4,45.6,102,135,108,156,11,8
+2012-10-27 00:00:00,Manchester City,Swansea City,53.7,46.3,117,171,62,87,18,20
+2012-10-21 00:00:00,Sunderland,Newcastle United,65.5,34.5,87,122,37,76,17,10
+2012-10-21 00:00:00,Queens Park Rangers,Everton,57.0,43.0,105,145,74,121,23,9
+2012-10-20 00:00:00,Tottenham Hotspur,Chelsea,42.2,57.8,63,94,97,139,25,11
+2012-10-20 00:00:00,Fulham,Aston Villa,50.7,49.3,110,154,79,148,14,18
+2012-10-20 00:00:00,Liverpool,Reading,56.8,43.2,141,183,74,142,18,21
+2012-10-20 00:00:00,Manchester United,Stoke City,64.0,36.0,141,176,50,99,7,12
+2012-10-20 00:00:00,Swansea City,Wigan Athletic,47.6,52.4,117,159,83,111,23,14
+2012-10-20 00:00:00,West Bromwich Albion,Manchester City,43.9,56.1,74,112,94,122,4,12
+2012-10-20 00:00:00,West Ham United,Southampton,38.7,61.3,63,116,76,114,11,11
+2012-10-20 00:00:00,Norwich City,Arsenal,28.0,72.0,55,95,158,196,15,13
+2012-10-07 00:00:00,Southampton,Fulham,41.9,58.1,80,131,71,110,17,21
+2012-10-07 00:00:00,Liverpool,Stoke City,62.9,37.1,135,198,46,105,17,17
+2012-10-07 00:00:00,Tottenham Hotspur,Aston Villa,55.9,44.1,126,152,64,107,24,16
+2012-10-07 00:00:00,Newcastle United,Manchester United,45.5,54.5,68,101,62,94,16,9
+2012-10-06 00:00:00,Manchester City,Sunderland,60.5,39.5,145,182,45,78,8,13
+2012-10-06 00:00:00,Chelsea,Norwich City,68.9,31.1,201,248,57,99,7,13
+2012-10-06 00:00:00,Swansea City,Reading,71.5,28.5,115,166,43,92,13,20
+2012-10-06 00:00:00,West Bromwich Albion,Queens Park Rangers,44.9,55.1,71,110,109,144,6,17
+2012-10-06 00:00:00,Wigan Athletic,Everton,46.1,53.9,52,96,133,179,21,15
+2012-10-06 00:00:00,West Ham United,Arsenal,31.3,68.7,61,104,154,198,16,9
+2012-10-01 00:00:00,Queens Park Rangers,West Ham United,50.5,49.5,57,112,96,156,16,14
+2012-09-30 00:00:00,Aston Villa,West Bromwich Albion,57.4,42.6,78,126,89,122,9,10
+2012-09-29 00:00:00,Arsenal,Chelsea,51.4,48.6,127,159,101,134,19,11
+2012-09-29 00:00:00,Everton,Southampton,52.4,47.6,133,174,87,136,24,14
+2012-09-29 00:00:00,Fulham,Manchester City,28.9,71.1,39,76,217,265,26,12
+2012-09-29 00:00:00,Norwich City,Liverpool,32.9,67.1,72,120,133,175,8,14
+2012-09-29 00:00:00,Reading,Newcastle United,47.4,52.6,85,153,75,127,15,5
+2012-09-29 00:00:00,Stoke City,Swansea City,39.0,61.0,67,113,88,123,13,9
+2012-09-29 00:00:00,Sunderland,Wigan Athletic,49.8,50.2,81,114,53,88,13,6
+2012-09-29 00:00:00,Manchester United,Tottenham Hotspur,74.1,25.9,167,221,28,41,10,16
+2012-09-23 00:00:00,Liverpool,Manchester United,52.0,48.0,104,141,86,119,13,16
+2012-09-23 00:00:00,Newcastle United,Norwich City,52.8,47.2,65,115,96,159,15,7
+2012-09-23 00:00:00,Manchester City,Arsenal,41.2,58.8,68,108,142,177,16,25
+2012-09-23 00:00:00,Tottenham Hotspur,Queens Park Rangers,43.3,56.7,55,86,89,148,21,7
+2012-09-22 00:00:00,Swansea City,Everton,48.5,51.5,69,109,149,185,15,14
+2012-09-22 00:00:00,Chelsea,Stoke City,59.7,40.3,171,222,63,95,12,13
+2012-09-22 00:00:00,Southampton,Aston Villa,60.4,39.6,116,174,46,106,21,24
+2012-09-22 00:00:00,West Bromwich Albion,Reading,52.9,47.1,83,134,77,138,8,14
+2012-09-22 00:00:00,West Ham United,Sunderland,61.3,38.7,96,153,56,86,7,18
+2012-09-22 00:00:00,Wigan Athletic,Fulham,63.6,36.4,135,182,43,81,12,24
+2012-09-17 00:00:00,Everton,Newcastle United,58.3,41.7,109,163,41,94,8,8
+2012-09-16 00:00:00,Reading,Tottenham Hotspur,42.3,57.7,74,122,112,139,13,8
+2012-09-15 00:00:00,Norwich City,West Ham United,48.9,51.1,67,124,64,128,5,6
+2012-09-15 00:00:00,Arsenal,Southampton,50.0,50.0,138,168,85,132,19,16
+2012-09-15 00:00:00,Aston Villa,Swansea City,42.1,57.9,93,162,89,124,14,10
+2012-09-15 00:00:00,Fulham,West Bromwich Albion,63.0,37.0,182,208,52,85,19,7
+2012-09-15 00:00:00,Manchester United,Wigan Athletic,52.2,47.8,112,148,60,95,10,9
+2012-09-15 00:00:00,Queens Park Rangers,Chelsea,52.7,47.3,66,98,100,147,13,12
+2012-09-15 00:00:00,Stoke City,Manchester City,33.8,66.2,51,100,117,167,19,7
+2012-09-15 00:00:00,Sunderland,Liverpool,34.1,65.9,49,75,112,154,15,8
+2012-09-02 00:00:00,Liverpool,Arsenal,53.0,47.0,144,184,85,126,14,20
+2012-09-02 00:00:00,Newcastle United,Aston Villa,51.7,48.3,81,119,77,123,5,16
+2012-09-02 00:00:00,Southampton,Manchester United,45.1,54.9,90,134,123,156,23,14
+2012-09-01 00:00:00,West Ham United,Fulham,45.1,54.9,97,136,98,130,7,15
+2012-09-01 00:00:00,Swansea City,Sunderland,63.8,36.2,151,174,51,81,10,15
+2012-09-01 00:00:00,Tottenham Hotspur,Norwich City,61.6,38.4,116,149,72,129,11,14
+2012-09-01 00:00:00,West Bromwich Albion,Everton,44.3,55.7,56,107,104,148,5,9
+2012-09-01 00:00:00,Wigan Athletic,Stoke City,68.7,31.3,108,144,64,106,8,18
+2012-09-01 00:00:00,Manchester City,Queens Park Rangers,59.9,40.1,167,209,69,113,10,16
+2012-08-26 00:00:00,Stoke City,Arsenal,33.3,66.7,50,107,117,159,16,12
+2012-08-26 00:00:00,Liverpool,Manchester City,48.7,51.3,97,153,86,123,14,10
+2012-08-25 00:00:00,Swansea City,West Ham United,62.2,37.8,77,105,82,137,6,6
+2012-08-25 00:00:00,Aston Villa,Everton,39.2,60.8,45,89,143,188,22,13
+2012-08-25 00:00:00,Manchester United,Fulham,59.9,40.1,204,229,40,58,8,16
+2012-08-25 00:00:00,Norwich City,Queens Park Rangers,55.1,44.9,91,155,47,92,9,10
+2012-08-25 00:00:00,Southampton,Wigan Athletic,49.2,50.8,92,127,78,107,22,13
+2012-08-25 00:00:00,Tottenham Hotspur,West Bromwich Albion,59.0,41.0,111,149,58,102,15,16
+2012-08-25 00:00:00,Chelsea,Newcastle United,52.5,47.5,111,154,44,75,10,11
+2012-08-22 00:00:00,Chelsea,Reading,71.6,28.4,152,189,55,97,22,20
+2012-08-20 00:00:00,Everton,Manchester United,30.8,69.2,72,117,172,208,14,8
+2012-08-19 00:00:00,Wigan Athletic,Chelsea,52.0,48.0,113,157,44,72,14,25
+2012-08-19 00:00:00,Manchester City,Southampton,64.1,35.9,177,214,83,108,17,18
+2012-08-18 00:00:00,Arsenal,Sunderland,70.1,29.9,162,202,35,61,22,22
+2012-08-18 00:00:00,Fulham,Norwich City,59.8,40.2,107,137,70,101,16,10
+2012-08-18 00:00:00,Queens Park Rangers,Swansea City,49.9,50.1,108,147,43,69,16,18
+2012-08-18 00:00:00,Reading,Stoke City,52.6,47.4,65,116,61,114,6,7
+2012-08-18 00:00:00,West Bromwich Albion,Liverpool,40.5,59.5,70,103,128,155,15,9
+2012-08-18 00:00:00,West Ham United,Aston Villa,34.2,65.8,66,104,62,118,13,7
+2012-08-18 00:00:00,Newcastle United,Tottenham Hotspur,51.9,48.1,39,78,72,102,7,13
